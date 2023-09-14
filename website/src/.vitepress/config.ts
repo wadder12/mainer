@@ -17,7 +17,7 @@ import generateMeta from "./config/hooks/generateMeta"
 import generateFeed from "./config/hooks/generateFeed" // Allows generation of RSS feed
 import generateOgImages from "./config/hooks/generateOgImages"
 
-const title = "EchoElla"
+const title = "QuantaAI Projects"
 const description = "Want to the see and hear the future of AI and Music Bots? - Look no futher!"
 
 const env = loadEnv("", process.cwd())

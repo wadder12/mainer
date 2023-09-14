@@ -5,7 +5,7 @@ import sidebar from "./navigation/sidebar"
 
 const themeConfig: DefaultTheme.Config = {
 	logo: {
-		src: "/img/logo-128px.png",
+		src: "/home/extra/icons8-vaporwave-128.png",
 		width: 24,
 		height: 24,
 	},
@@ -47,9 +47,22 @@ const themeConfig: DefaultTheme.Config = {
 	],
 
 	footer: {
-		message: "<a href=\"https://www.apache.org/licenses/LICENSE-2.0\" target=\"_blank\">Open-source Apache Licensed</a> <span class=\"divider\">|</span> <a href=\"/privacy/\">Privacy policy</a> <span class=\"divider\">|</span> Powered by <a target=\"_blank\" href=\"https://www.netlify.com/\">Netlify <img src=\"/img/logo-netlify.svg\" alt=\"Netlify Logo\" height=\"12px\" width=\"12px\" style=\"display: inline-block\"></a>",
-		copyright: `Copyright © 2015 - ${new Date().getFullYear()} Javier Tomás`,
-	},
+		message: `
+		  <a href="https://www.apache.org/licenses/LICENSE-2.0" target="_blank">
+			Open-source Apache Licensed
+		  </a>
+		  <span class="divider">|</span>
+		  <a href="/privacy/">Privacy policy</a>
+		  <span class="divider">|</span>
+		  Quanta is powered by 
+		  <a target="_blank" href="https://www.python.org">
+			Python 
+			<img src="https://cdn.discordapp.com/attachments/1111315590808866858/1151944751503917066/icons8-python.gif" alt="Python" height="12px" width="12px" style="display: inline-block">
+		  </a>
+		`,
+		copyright: `Copyright © 2022 - ${new Date().getFullYear()} Wade - QuantaAI Projects`,
+	  },
+	  
 
 	editLink: {
 		pattern: "https://github.com/xhenos/kodo/edit/v3-vitepress/website/src/:path",
