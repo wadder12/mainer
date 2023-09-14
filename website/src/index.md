@@ -8,8 +8,8 @@ hero:
   tagline: Listen and Watch to see how EchoElla is & will change the game!
   image:
     alt: Tachiyomi Library Tab Dark
-    light: /home/phone.light.webp
-    dark: /home/phone.dark.webp
+    light: /home/Designer-15.png
+    dark: /home/Designer-15.png
   actions:
     - theme: brand
       text: Get started
