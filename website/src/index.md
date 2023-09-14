@@ -3,9 +3,9 @@ title: Home
 layout: home
 
 hero:
-  name: Tachiyomi
-  text: Full-featured reader
-  tagline: Discover and read manga, webtoons, comics, and more – easier than ever on your Android device.
+  name: EchoElla
+  text: AI-Music Discord Bot!
+  tagline: Listen and Watch to see how EchoElla is & will change the game!
   image:
     alt: Tachiyomi Library Tab Dark
     light: /home/phone.light.webp
@@ -15,15 +15,16 @@ hero:
       text: Get started
       link: /docs/guides/getting-started
     - theme: alt
-      text: Download
-      link: /download/
+      text: Support Server 
+      link: https://discord.gg/JJ4KAf86Vx
 
-customMetaTitle: Tachiyomi
+customMetaTitle: EchoElla
 
 features:
   - title: Tracking
     details: Automatically keep track of your series with MyAnimeList, AniList, Kitsu, and more.
-    icon: <svg height="24" width="24" viewBox="0 -960 960 960" fill="var(--vp-c-green-2)" xmlns="http://www.w3.org/2000/svg"><path d="M160-160v-80h110l-16-14q-52-46-73-105t-21-119q0-111 66.5-197.5T400-790v84q-72 26-116 88.5T240-478q0 45 17 87.5t53 78.5l10 10v-98h80v240H160Zm400-10v-84q72-26 116-88.5T720-482q0-45-17-87.5T650-648l-10-10v98h-80v-240h240v80H690l16 14q49 49 71.5 106.5T800-482q0 111-66.5 197.5T560-170Z"/></svg>
+    icon: <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="64" height="64" viewBox="0 0 64 64">
+            <linearGradient id="byC0t06223VQSI8vcwHHCa_BzTeWtFBEc4r_gr1" x1="32" x2="32" y1="6" y2="58" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#1a6dff"></stop><stop offset="1" stop-color="#c822ff"></stop></linearGradient><path fill="url(#byC0t06223VQSI8vcwHHCa_BzTeWtFBEc4r_gr1)" d="M40,58H25c-0.553,0-1-0.448-1-1s0.447-1,1-1h15c0.553,0,1,0.448,1,1S40.553,58,40,58z M47,53 H17c-0.553,0-1-0.448-1-1s0.447-1,1-1h30c0.553,0,1,0.448,1,1S47.553,53,47,53z M52,48H12c-0.553,0-1-0.448-1-1s0.447-1,1-1h40 c0.553,0,1,0.448,1,1S52.553,48,52,48z M54.914,43H9.086c-0.553,0-1-0.448-1-1s0.447-1,1-1h45.828c0.553,0,1,0.448,1,1 S55.467,43,54.914,43z M56.499,38H7.501c-0.553,0-1-0.448-1-1s0.447-1,1-1h48.998c0.553,0,1,0.448,1,1S57.052,38,56.499,38z M32,6 C18.026,6,6.592,17.081,6.022,30.917C5.976,32.052,6.893,33,8.029,33h47.941c1.136,0,2.054-0.948,2.007-2.083 C57.408,17.081,45.974,6,32,6z M32,8c12.898,0,23.448,10.229,23.975,23H8.025C8.552,18.229,19.102,8,32,8z"></path><linearGradient id="byC0t06223VQSI8vcwHHCb_BzTeWtFBEc4r_gr2" x1="32" x2="32" y1="10" y2="29" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#6dc7ff"></stop><stop offset="1" stop-color="#e6abff"></stop></linearGradient><path fill="url(#byC0t06223VQSI8vcwHHCb_BzTeWtFBEc4r_gr2)" d="M10.202,29C11.663,18.191,20.865,10,32,10s20.338,8.191,21.798,19H10.202z"></path></svg>
     link: /docs/guides/tracking
     linkText: Setup tracking
   - title: Extensions
