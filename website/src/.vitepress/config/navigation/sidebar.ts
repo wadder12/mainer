@@ -75,7 +75,7 @@ function defaultSidebar(): DefaultTheme.SidebarItem[] {
 			],
 		},
 		{
-			text: "Guides",
+			text: "EchoElla",
 			items: [
 				{
 					text: "Getting started",
@@ -122,6 +122,39 @@ function defaultSidebar(): DefaultTheme.SidebarItem[] {
 					text: "Shizuku",
 					link: "/docs/guides/shizuku",
 				},
+			],
+		},
+		{
+			text: "Quanta RPG",
+			items: [
+				{
+					text: "Getting started",
+					link: "/docs/guides/getting-started",
+				},
+				{
+					text: "Commands",
+					link: "/docs/guides/troubleshooting/",
+					collapsed: true,
+					items: [
+						{
+							text: "Common issues",
+							link: "/docs/guides/troubleshooting/common-issues",
+						},
+						{
+							text: "Diagnosis",
+							link: "/docs/guides/troubleshooting/diagnosis",
+						},
+					],
+				},
+				{
+					text: "Data Used",
+					link: "/docs/guides/source-migration",
+				},
+				{ text: "Backups", link: "/docs/guides/backups" },
+				
+				
+				
+				
 			],
 		},
 	]
